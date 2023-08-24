@@ -49,7 +49,7 @@ for epoch in range(num_epochs):
         print(f'epoch: {epoch+1}, loss = {loss.item():.4f}')
 
 # plot
-predicted = model(X).detach().numpy() # detach() detaches the output from the computationnal graph
+predicted = model(X).detach().numpy() # detach() detaches the output from the computational graph
 plt.plot(X_numpy, y_numpy, 'ro')
 plt.plot(X_numpy, predicted, 'b')
 plt.show()
