@@ -1,4 +1,4 @@
-# Here is a quick example of li
+
 '''
 1) Design Model (input, output size, forward pass)
 2) Construct loss and optimizer
