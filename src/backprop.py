@@ -1,3 +1,7 @@
+'''
+Backpropagation is the process by which a neural network adjusts its internal parameters based on the difference between its predictions and the actual outcomes, enabling it to learn and improve over time.
+'''
+
 import torch
 import numpy as np
 
