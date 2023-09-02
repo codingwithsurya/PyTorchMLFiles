@@ -1,5 +1,5 @@
 # This file is the same as linear_regression.py except we use the sigmoid function at the end to convert the output to a probability
-# the logisitc regression model is used for binary classification problems.
+# the logistic regression model is used for binary classification problems.
 '''
 1) Design Model (input, output size, forward pass)
 2) Construct loss and optimizer
